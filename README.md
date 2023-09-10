@@ -1,7 +1,7 @@
 # LatchOperatedRelay
 Basic operating system requirements 
 
-![Image of PCB ]((https://github.com/markh2016/LatchOperatedRelay/blob/main/Images/PCB.png)raw=true)
+
 
 Cad software used  KICAD 
 
